@@ -1,0 +1,19 @@
+{
+  "name": "inpugst",
+  "version": "1.0.0",
+  "description": "fetchdata",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shrutkirti",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
